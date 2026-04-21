@@ -101,7 +101,7 @@ export default function App() {
         {/* Background Overlay */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://picsum.photos/seed/stagelights/1920/1080" 
+            src="https://i.pinimg.com/1200x/20/8c/d6/208cd64a5f0796b7ba7e31d9ff4ee59b.jpg" 
             alt="Hero Background"
             className="w-full h-full object-cover opacity-40"
             referrerPolicy="no-referrer"
