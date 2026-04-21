@@ -26,7 +26,7 @@ const NAV_LINKS = [
 const SERVICES = [
   {
     title: "Âm Thanh Chuyên Nghiệp",
-    description: "Hệ thống loa công suất lớn, xử lý âm thanh kỹ thuật cao cho đám cưới, hội nghị, concert.",
+    description: "Hệ thống loa công suất lớn, xử lý âm thanh kỹ thuật cao cho đám cưới, hội nghị.",
     icon: Speaker,
     color: "bg-blue-500",
   },
